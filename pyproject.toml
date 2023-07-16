@@ -2,20 +2,17 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
-name = "NAME"
+name = "parspy"
 version = "0.0.1"
 authors = [
-  { name="AUTHOR", email="EMAIL" },
+  { name="PlaceReporter99", email="placereporter99pypi@outlook.com" },
 ]
-description = "DESCRIPTION"
-readme = "README"
-requires-python = ">=3.7"
+description = "A tool to parse text into a list where it can be interpreted and executed."
+readme = "README.md"
+requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
-[project.urls]
-"Homepage" = "HOMEPAGE"
-"Bug Tracker" = "BUG_TRACKER"
