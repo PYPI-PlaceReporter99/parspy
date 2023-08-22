@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 name = "parspy"
 version = "0.0.1"
 authors = [
-  { name="PlaceReporter99", email="placereporter99pypi@outlook.com" },
+  { name="PlaceReporter99" },
 ]
 description = "A tool to parse text into a list where it can be interpreted and executed."
 readme = "README.md"
