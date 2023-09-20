@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/PlaceReporter99/parspy"
-"Bug Tracker" = "https://github.com/PlaceReporter99/parspy/issues"
+"Homepage" = "https://github.com/PYPI-PlaceReporter99/parspy"
+"Bug Tracker" = "https://github.com/PYPI-PlaceReporter99/parspy/issues"
